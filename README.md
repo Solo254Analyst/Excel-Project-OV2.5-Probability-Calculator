@@ -55,4 +55,4 @@ To complete this project, I utilized a variety of skills and tools, including Po
 
 In addition, I utilized conditional formatting to highlight important information and create a visual representation of the data. I also employed VBA to split the Excel sheets containing data for all 25 European leagues into separate files for the English Premier League. Finally, I utilized advanced charts, such as speedometer or gauge charts, to display the results of the analysis in a clear and concise manner. 
 
-TO SEE THE EXCEL FILE CLICK HERE
+TO SEE THE EXCEL FILE CLICK [HERE](https://github.com/Solo254Analyst/Excel-Project-OV2.5-Probability-Calculator/raw/main/English%20EPL%20Combined.xlsx)
